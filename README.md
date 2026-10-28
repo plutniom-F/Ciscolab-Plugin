@@ -1,2 +1,3 @@
 # Ciscolab-Plugin
-This is a plugin for antigravity &amp; chatGpT which helps you with practice parts of IT and Networking
+This is a plugin for antigravity &  chatGpT which helps you with practice parts of IT and Networking
+Feel free to update or change stuff!
